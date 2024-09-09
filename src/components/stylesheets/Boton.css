@@ -1,0 +1,33 @@
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 60px;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border: 2px solid white;
+  border-radius: 40px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.boton-clic {
+  background-color: rgb(5, 117, 117);
+}
+
+.boton-clic:hover {
+  background-color: rgb(18, 167, 167);
+}
+
+.boton-reiniciar {
+  background-color: rgb(129, 0, 250);
+}
+
+.boton-reiniciar:hover {
+  background-color: rgb(146, 84, 204);
+}

@@ -1,0 +1,9 @@
+.contador {
+  font-size: 5rem;
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  padding: 30px;
+  text-align: center;
+}
